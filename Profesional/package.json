@@ -1,0 +1,22 @@
+{
+  "name": "mediaplayer",
+  "version": "1.0.0",
+  "description": "media player del curso profesional de js ",
+  "main": "index.html",
+  "dependencies": {
+    "npm": "^7.20.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "typescript": "^4.3.5"
+  },
+  "browserslist": [
+    "last 1 Chrome version"
+  ],
+  "scripts": {
+    "start": "parcel index.html ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Talledos",
+  "license": "MIT"
+}
